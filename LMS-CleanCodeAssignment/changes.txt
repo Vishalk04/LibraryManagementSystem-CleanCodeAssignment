@@ -1,0 +1,7 @@
+1. create display method in LISApp for display result.
+
+2.Naming convention modification in IBook and its implementation classes and dao classes
+
+3.Removed unused interface
+
+4.
